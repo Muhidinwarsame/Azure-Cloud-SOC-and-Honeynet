@@ -1,1 +1,1 @@
-# Azure-Cloud-SOC-and-Honeynet
+# Azure Cloud SOC and Honeynet
