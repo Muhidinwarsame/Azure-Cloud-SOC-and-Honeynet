@@ -1,10 +1,10 @@
 # Azure HoneyNet-Real world Cyber Attacks
-<a href="https://imgur.com/MI1NRjZ"><img src="https://i.imgur.com/MI1NRjZ.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/HcOiyKZ"><img src="https://i.imgur.com/HcOiyKZ.png" title="source: imgur.com" /></a>
 
 
 ## Introduction
 
-I built  a HoneyNet and SOC infrastructure within the Microsoft Azure platform as part of a project. This involved the provisioning of various cloud resources, including virtual machines, flow logs for each VM, a log analytics workspace to collect log data, a storage account, a key vault, network security groups,virtual networks,and a Azure Sentinel (SIEM).:
+I built  a HoneyNet and SOC infrastructure within the Microsoft Azure platform as part of a project. This involved the provisioning of various cloud resources, including virtual machines, flow logs for each VM, a log analytics workspace to collect log data, a storage account, a key vault, network security groups,virtual networks,and a Azure Sentinel (SIEM-Security Information and Event Management).
 
 # Objective
 
