@@ -1,4 +1,4 @@
-# Azure HoneyNet-Real world Cyber Attacks
+# Azure SOC-Real world Cyber Attacks
 <a href="https://imgur.com/HcOiyKZ"><img src="https://i.imgur.com/HcOiyKZ.png" title="source: imgur.com" /></a>
 
 
